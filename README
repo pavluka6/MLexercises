@@ -1,3 +1,2 @@
-This code is based on LP4DS video series from Siraj Ravel
-and his challenge to make a neural network that would predict stock
+Idea of the project was to make neural network that would predict stock
 market prices based on previous prices and sentiment analysis extracted from Twitter.
